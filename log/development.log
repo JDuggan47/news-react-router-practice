@@ -222,3 +222,134 @@ Started GET "/assets/bundle.self-154ae60a2682a7887d2a7a3642c9f913be719b77f048975
 
 
 Started GET "/assets/application.self-1509cb3433bf7f60a75710bd4d8561d25423676b3c4d4a21914940bf07b8869a.js?body=1" for ::1 at 2017-06-06 15:07:25 -0400
+
+
+Started GET "/" for ::1 at 2017-06-06 15:14:22 -0400
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.haml within layouts/application (0.1ms)
+Completed 200 OK in 78ms (Views: 78.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-0bd75f3c5095f9b4df826b1a2a3505b6f0b9cbabd73797fdfc16531c4c7af124.css?body=1" for ::1 at 2017-06-06 15:14:22 -0400
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2017-06-06 15:14:22 -0400
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2017-06-06 15:14:22 -0400
+
+
+Started GET "/assets/foundation.core.self-f55f82f1d32e31421cdb346360219495e02cb256a9235560ae847258f51ded3a.js?body=1" for ::1 at 2017-06-06 15:14:22 -0400
+
+
+Started GET "/assets/foundation.abide.self-fbc98127620ee01eaa2881e128f8448984eecf2eaf9fd8cc40b020ad7e9f2bd3.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.accordion.self-6c28f3f91f10621dea9006b993acf28cda9ea59c4e962048fee0e94588b696bb.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.accordionMenu.self-6a75eb2b3768268d8ec00fc703ea3752f847738031a2614ce3ab5e4bbb9882dd.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.drilldown.self-11995b03e1b847772717a9123dc61fb32511459cccc6b8bc816b29e6739c3555.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.dropdown.self-f384376d246673d8cc9e59e8a1e0655d1ac164ebd79ed62938bb665b8e98fda0.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.dropdownMenu.self-d58c8deb698da27cd9f2df0dd6bef68b289948015c0eb1f1734e601754b77a22.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.equalizer.self-20c80813228b7707630bb8e9b79d9e9e95bc08793fd7f7c0bb4d1a8e1abba874.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.interchange.self-8098699bc5e479e34a597c857ca10cf84217780d16b09b4be350ec42d7c3ba85.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.magellan.self-185cddbb3ea900a8b64ad9482999414820039c72b88ac73ce4062e26c2fcb51f.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.offcanvas.self-43878eed51fe559619ff3c62e266b58335e0cd40bc765ede9bb5c61a5e25625d.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.orbit.self-3790b70d486b6233de7bf36256a99b4470bbf5bab8d5cdba23038a96bed7c426.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.responsiveMenu.self-04daa3af5d3c617fa7d588b45b56abd62539f5fde28756c7b4705de2aa10c4fd.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.responsiveToggle.self-2b01f8c5e2bfe4eeaf7b15dd94962ef957112c455f4dc3abcf5e41e4c98b5b91.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.reveal.self-3b377de155fe3f888dcbb074b9017ed4e19c3ef995e13eea42b10839dd9756f6.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.slider.self-89883a154b8e68187e9465e5470bf26d54b48a4a69de4636afbb38953ee41ea6.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.sticky.self-8e0aa578f0015adbf99c14d1bb8464da751951e2c6e2923c2395ceba99c28bac.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.tabs.self-891f2cfe78a15ab6d129ae1bdcd83bb8c344b5677446700c8329442081eddddf.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.toggler.self-e503f9a635124ad4578a03dc24e47ac4cdb922a60bac8c9c99d024da00b0bd52.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.tooltip.self-4cf167bdbe826668ee0d73e6e30da8aaba252c73084db7b005923d5cd102d11e.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.util.box.self-789413a9ae946f5aee2709ac5e1ad5c9a7780fb4e16b46efe3572f22a0ea6b4d.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.util.keyboard.self-cf209dc0383f29cb576393bbdee52dbbd819837d6430a35afb4a4703770972f9.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.util.mediaQuery.self-931eb6f96f60670ad0ebcb0a6d7bed0cced317a2059749343b094c4d72098b6c.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.util.motion.self-13d4248460aba53c0fd52e1ec0d5cb41c317b1c4d974bc5d905c9976dc9ef218.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.util.nest.self-c9876586f80b068aea0d01390583424a28fa305c450e12a49bb301dcc686d1a0.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.util.timerAndImageLoader.self-68c67c1b0b4f2e2cb7f2af57124f38f54b749efed9f1bebc44677dc27abf7864.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.util.touch.self-e26387c8ba249a8e90745647603562023cd1932c720ddf72407dc7a489ecb893.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.util.triggers.self-71a2360cfe56c89eb46e0776c3d04601a8cce01d9e1098b808375eecc4b2418c.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/foundation.self-5ecf2f4d83e6260dabd6ec48e76d8ddebccf956563f34072221bf960d3b8c255.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/bundle.self-154ae60a2682a7887d2a7a3642c9f913be719b77f048975deb7db4801545517d.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+
+
+Started GET "/assets/application.self-1509cb3433bf7f60a75710bd4d8561d25423676b3c4d4a21914940bf07b8869a.js?body=1" for ::1 at 2017-06-06 15:14:23 -0400
+  [1m[36m (51.3ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL) [0m
+  [1m[35m (4.8ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to DeviseCreateUsers (20170606192917)
+  [1m[35m (6.1ms)[0m  BEGIN
+  [1m[36m (27.2ms)[0m  [1mCREATE TABLE "users" ("id" serial primary key, "email" character varying DEFAULT '' NOT NULL, "encrypted_password" character varying DEFAULT '' NOT NULL, "first_name" character varying NOT NULL, "last_name" character varying NOT NULL, "username" character varying NOT NULL, "reset_password_token" character varying, "reset_password_sent_at" timestamp, "remember_created_at" timestamp, "sign_in_count" integer DEFAULT 0 NOT NULL, "current_sign_in_at" timestamp, "last_sign_in_at" timestamp, "current_sign_in_ip" inet, "last_sign_in_ip" inet, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL) [0m
+  [1m[35m (1.1ms)[0m  CREATE UNIQUE INDEX  "index_users_on_email" ON "users"  ("email")
+  [1m[36m (1.1ms)[0m  [1mCREATE UNIQUE INDEX  "index_users_on_reset_password_token" ON "users"  ("reset_password_token")[0m
+  [1m[35mSQL (1.2ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES ($1)  [["version", "20170606192917"]]
+  [1m[36m (0.6ms)[0m  [1mCOMMIT[0m
+  [1m[35mActiveRecord::SchemaMigration Load (1.8ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (7.0ms)[0m  [1mSELECT t2.oid::regclass::text AS to_table, a1.attname AS column, a2.attname AS primary_key, c.conname AS name, c.confupdtype AS on_update, c.confdeltype AS on_delete
+FROM pg_constraint c
+JOIN pg_class t1 ON c.conrelid = t1.oid
+JOIN pg_class t2 ON c.confrelid = t2.oid
+JOIN pg_attribute a1 ON a1.attnum = c.conkey[1] AND a1.attrelid = t1.oid
+JOIN pg_attribute a2 ON a2.attnum = c.confkey[1] AND a2.attrelid = t2.oid
+JOIN pg_namespace t3 ON c.connamespace = t3.oid
+WHERE c.contype = 'f'
+  AND t1.relname = 'users'
+  AND t3.nspname = ANY (current_schemas(false))
+ORDER BY c.conname
+[0m
