@@ -1,5 +1,5 @@
-class article < ActiveRecord::Base
-  has_many :users
+class Article < ActiveRecord::Base
+  belongs_to :user
 
 
   validates :title, presence: true
